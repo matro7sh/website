@@ -4,9 +4,8 @@ theme = "hugo-universal-theme"
 themesDir = "./themes"
 languageCode = "fr-FR"
 # Site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage = "fr"
+defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -94,7 +93,7 @@ paginate = 10
     formspree_action = "https://formspree.io/sample/of/endpoint"
     contact_form_ajax = false
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>CMEPW organisation</p>"
     copyright = "Copyright (c) 2020-2021, Smersh; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -128,7 +127,7 @@ paginate = 10
 [params.widgets]
     categories = true
     tags = true
-    search = true
+    search = false
 
 [params.carousel]
     enable = true
@@ -169,4 +168,4 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = "Here is a list of items that will allow you to use SMERSH in the best possible way, as well as the intended functionality"
