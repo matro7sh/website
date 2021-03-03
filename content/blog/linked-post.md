@@ -1,10 +1,10 @@
 +++
-title = "Linked post"
+title = "Interative Shell"
 date = "2015-10-02T21:49:20+02:00"
-tags = ["golang", "programming", "theme", "hugo"]
+tags = ["shell", "programming", "python"]
 categories = ["programming"]
 banner = "img/banners/banner-4.jpg"
-author = "John Doe"
+author = "Jenaye"
 +++
 
 I'm a linked post in the menu. You can add other posts by adding the following line to the frontmatter:

@@ -40,6 +40,12 @@ paginate = 10
     name = "Contact"
     url  = "/contact/"
     weight = 4
+    
+[[menu.main]]
+    identifier = "github"
+    name = "github"
+    url  = "https://github.com/CMEPW/Smersh"
+    weight = 5
 
 # Top bar social links menu
 
@@ -89,7 +95,7 @@ paginate = 10
     contact_form_ajax = false
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    copyright = "Copyright (c) 2020-2021, Smersh; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -111,7 +117,7 @@ paginate = 10
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
+    enable = false
     text = """<p class="hidden-sm hidden-xs">Contact us on Github.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
@@ -146,14 +152,14 @@ paginate = 10
 
 [params.see_more]
     enable = true
-    icon = "far fa-file-alt"
+    icon = "fab fa-github"
     title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    subtitle = "All sources code are available on the link bellow"
+    link_url = "https://github.com/cmepw/smersh"
+    link_text = "Check it out !"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
