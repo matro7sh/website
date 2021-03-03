@@ -4,18 +4,17 @@ description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-
 ## 1. WHY DID WE CREATE THIS TOOL ? 
 
-it was complicated to retrieve all the data concerning a mission, you had to call your colleague, ask him what he did or find.
+It was complicated to retrieve all the data concerning a mission, you had to call your colleagues, ask them what they did or find.
 The goal is really to have a global vision of the mission, to be organized, to wake up and say "okay, I still have to look at it". 
 
-## 2. WHO ARE WE ? 
+## 2. WHO ARE WE ?
 
-We are two creators: 
-* [Jenaye](https://jenaye.fr) : IT engineer and working as a pentester for [Orange Cyberdefense](https://orangecyberdefense.com/fr/) also [freelance developper](https://www.malt.fr/profile/mikehouziaux).
-* [Darkweak](https://devcv.fr/) : Creator of Souin, a new cache system suitable for every reverse-proxy and developper also Freelance.
+We are two creators:
 
+* [Jenaye](https://jenaye.fr): IT engineer and working as a pentester for [Orange Cyberdefense](https://orangecyberdefense.com/fr/) also [freelance developper](https://www.malt.fr/profile/mikehouziaux).
+* [Darkweak](https://devcv.fr/): Creator of Souin, a new cache system suitable for every reverse-proxy and developper also Freelance.
 
 ---
 
