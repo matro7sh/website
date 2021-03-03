@@ -4,6 +4,7 @@ date = "2021-02-03T21:49:20+02:00"
 tags = ["shell", "cli", "python"]
 categories = ["cli"]
 banner = "img/banners/shellpreview.png"
+summary = "YOLO"
 author = "Jenaye"
 +++
 
@@ -102,4 +103,3 @@ SMERSH - Mission[1] >> show mission 1
 ## Preview : 
 
 ![toto](/imgBlog/shellpreview.png)
-

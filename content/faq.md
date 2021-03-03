@@ -13,8 +13,8 @@ The goal is really to have a global vision of the mission, to be organized, to w
 ## 2. WHO ARE WE ? 
 
 We are two creators: 
-* Jenaye : IT engineer and working as a pentester for [Orange Cyberdefense](https://orangecyberdefense.com/fr/) also [freelance developper](https://www.malt.fr/profile/mikehouziaux).
-* Darkweak : Creator of Souin, a new cache system suitable for every reverse-proxy and developper for [Les Tilleuls](https://les-tilleuls.coop) and also Freelance.
+* [Jenaye](https://jenaye.fr) : IT engineer and working as a pentester for [Orange Cyberdefense](https://orangecyberdefense.com/fr/) also [freelance developper](https://www.malt.fr/profile/mikehouziaux).
+* [Darkweak](https://devcv.fr/) : Creator of Souin, a new cache system suitable for every reverse-proxy and developper also Freelance.
 
 
 ---

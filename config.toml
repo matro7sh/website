@@ -34,17 +34,12 @@ paginate = 10
     url  = "/faq/"
     weight = 3
 
-[[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url  = "/contact/"
-    weight = 4
     
 [[menu.main]]
     identifier = "github"
     name = "github"
-    url  = "https://github.com/CMEPW/Smersh"
-    weight = 5
+    url  = "https://github.com/CMEPW/"
+    weight = 4
 
 # Top bar social links menu
 
@@ -99,7 +94,7 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/logo2.png"
+    logo = "img/logo3.png"
     logo_small = "img/logo-small.png"
     address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
         <br>13/25 New Avenue
