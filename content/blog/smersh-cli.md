@@ -4,7 +4,7 @@ date = "2021-02-03T21:49:20+02:00"
 tags = ["shell", "cli", "python"]
 categories = ["cli"]
 banner = "img/banners/shellpreview.png"
-summary = "YOLO"
+summary = "A SMERSH command-line client"
 author = "Jenaye"
 +++
 
