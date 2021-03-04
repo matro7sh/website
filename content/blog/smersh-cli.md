@@ -12,7 +12,7 @@ author = "Jenaye"
 
 >requirement : python >= 3.5
 
-we recommand you to use alias like `alias smersh-cli='python3 /home/jenaye/dev/github/smersh-cli/main.py'`
+we recommend you to use alias like `alias smersh-cli='python3 /home/jenaye/dev/github/smersh-cli/main.py'`
 
 ```
 smersh-cli http://localhost:8000
@@ -22,7 +22,7 @@ then enter your credentials ( by default if u used `make load-data`) you can try
 
 ### How to display all data
 
-> available entity : user, vuln, positivePoint, mission, negativePoint
+> available entities : user, vuln, positivePoint, mission, negativePoint
 
 ```
 SMERSH >> show mission 
@@ -51,7 +51,7 @@ SMERSH >> show mission 1
 
 > `assign <field> '<value>'`
 
-> Finaly `save` ( to make post request )
+> finally `save` ( to make post request )
 
 ``` 
 SMERSH - Mission[1] >> use user 
@@ -76,7 +76,7 @@ SMERSH - User[4] >> show
 
 > ` assign <field> '<value>'`
 
-> Finaly `save` ( to make put request )
+> finally `save` ( to make put request )
 
 ``` 
 SMERSH >> use mission 1
