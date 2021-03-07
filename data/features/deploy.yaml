@@ -1,0 +1,5 @@
+weight: 2
+name: "USER FRIENDLY"
+icon: "fas fa-user-friends"
+url: ""
+description: "With the GUI or the python CLI you can easily fill in the data associated with your mission."
