@@ -8,7 +8,7 @@ summary = "tips for front-end developper"
 author = "Jenaye"
 +++
 
-# How tp run API to work correctly
+# How to run API to work correctly
 
 >requirements : node & docker + docker-compose
 
