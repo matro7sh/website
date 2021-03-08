@@ -1,5 +1,5 @@
-weight: 2
-name: "USER FRIENDLY"
-icon: "fas fa-user-friends"
+weight: 1
+name: "EASY TO DEPLOY"
+icon: "fas fa-drafting-compass"
 url: ""
-description: "With the GUI or the python CLI you can easily fill in the data associated with your mission."
+description: "Container first approach for only one configured stack."

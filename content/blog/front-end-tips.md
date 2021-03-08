@@ -15,12 +15,12 @@ author = "Jenaye"
 In case you want to contribute on the client part of the application it is useless to launch the codimd or the bitwarden, you just have to launch the API.
 
 
-you can do it this way `docker-compose up api`
+First run `docker-compose up api` to be able to consume the API. Indeed you have to run `make install` first to setup the containers
 
  
 # How to run Angular
 
-For the Angular part, you have to go to the `Client` folder and launch the following commands: 
+As running javascript in a container is really slow we chose to not provide a container, then you have to go to the `client` folder and run the following command: 
 
 ``` 
 npm i && npm start
