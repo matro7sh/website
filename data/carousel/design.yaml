@@ -1,0 +1,8 @@
+weight: 2
+title: "SMERSH API"
+description: >
+  <ul class="list-style-none">
+    <li>WHICH EXPOSES ALL ROUTES</li><br/>
+    <li>USING CRUD</li>
+  </ul>
+image: "img/carousel/api.png"
