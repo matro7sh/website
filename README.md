@@ -1,6 +1,6 @@
 # Website
 
-url : https://smersh.app
+url : https://cmepw.github.io/website/
 
 
 build with [Hugo](https://gohugo.io/)

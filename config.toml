@@ -1,4 +1,4 @@
-baseurl = "https://smersh.app"
+baseurl = "https://cmepw.github.io/website/"
 title = "Smersh"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
