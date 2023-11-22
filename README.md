@@ -1,6 +1,6 @@
 # Website
 
-url : https://cmepw.github.io/website/
+url : https://matro7sh.github.io/website/
 
 
 build with [Hugo](https://gohugo.io/)
