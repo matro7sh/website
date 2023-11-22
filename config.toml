@@ -1,4 +1,4 @@
-baseurl = "https://cmepw.github.io/website/"
+baseurl = "https://matro7sh.github.io/website/"
 title = "Smersh"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
@@ -38,7 +38,7 @@ paginate = 10
 [[menu.main]]
     identifier = "github"
     name = "github"
-    url  = "https://github.com/CMEPW/"
+    url  = "https://github.com/smersh"
     weight = 4
 
 # Top bar social links menu
@@ -46,7 +46,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 1
     name = "GitHub"
-    url = "https://github.com/CMEPW/Smersh"
+    url = "https://github.com/matro7sh/smersh"
     pre = "<i class='fab fa-2x fa-github'></i>"
 
 [params]
@@ -88,7 +88,7 @@ paginate = 10
     formspree_action = "https://formspree.io/sample/of/endpoint"
     contact_form_ajax = false
 
-    about_us = "<p>CMEPW organisation</p>"
+    about_us = "<p>Matro7sh organisation</p>"
     copyright = "Copyright (c) 2020-2021, Smersh; all rights reserved."
 
     # Format dates with Go's time formatting
